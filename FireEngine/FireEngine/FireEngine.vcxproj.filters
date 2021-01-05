@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="src\FireEngine\Core.h" />
+    <ClInclude Include="src\FireEngine\Application.h" />
+    <ClInclude Include="src\FireEngine.h" />
+    <ClInclude Include="src\FireEngine\EntryPoint.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\FireEngine\Application.cpp" />
+  </ItemGroup>
+</Project>
